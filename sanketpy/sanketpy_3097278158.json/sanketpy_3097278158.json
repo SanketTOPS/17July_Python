@@ -1,0 +1,92 @@
+{
+    "node": {
+        "ai_agent_type": null,
+        "biography": "Technical Trainer | Corporate Trainer | Father of beloved Daughter \ud83d\ude0d",
+        "bio_links": [
+            {
+                "title": "Learn Python in 60Min",
+                "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fpythonforstud.blogspot.com%2F&e=AT3CYbZZA2qVuXlKSLDvvV3xAdXzjhHok3LO2YLIxIe9OMCkH1a1R9McoSIyYSv41l5JaEMiG5SA_mYbR5hqrMGvWVZ1eSnKANE0tgpNVc6g0Mrv",
+                "url": "http://pythonforstud.blogspot.com",
+                "link_type": "external"
+            }
+        ],
+        "fb_profile_biolink": null,
+        "biography_with_entities": {
+            "raw_text": "Technical Trainer | Corporate Trainer | Father of beloved Daughter \ud83d\ude0d",
+            "entities": []
+        },
+        "blocked_by_viewer": false,
+        "restricted_by_viewer": null,
+        "country_block": false,
+        "eimu_id": "112329933490881",
+        "external_url": "http://pythonforstud.blogspot.com/",
+        "external_url_linkshimmed": "https://l.instagram.com/?u=http%3A%2F%2Fpythonforstud.blogspot.com%2F&e=AT12s0JKxAtveTq2a1Ha01yQHHEyao6Cu_dyRPQKWntO136cgZ6WZJUSwg9MoP8ArfLZ-gJREzRUbYkMu9lPSZLd6sHLsL7e_7ILiLh1pFBvj1HE",
+        "edge_followed_by": {
+            "count": 426
+        },
+        "fbid": "17841403064767159",
+        "followed_by_viewer": false,
+        "edge_follow": {
+            "count": 288
+        },
+        "follows_viewer": false,
+        "full_name": "Sanket Chauhan",
+        "group_metadata": null,
+        "has_ar_effects": false,
+        "has_clips": true,
+        "has_guides": false,
+        "has_channel": false,
+        "has_blocked_viewer": false,
+        "highlight_reel_count": 0,
+        "has_onboarded_to_text_post_app": false,
+        "has_requested_viewer": false,
+        "hide_like_and_view_counts": false,
+        "id": "3097278158",
+        "is_business_account": false,
+        "is_professional_account": false,
+        "is_supervision_enabled": false,
+        "is_guardian_of_viewer": false,
+        "is_supervised_by_viewer": false,
+        "is_supervised_user": false,
+        "is_embeds_disabled": false,
+        "is_joined_recently": false,
+        "guardian_id": null,
+        "business_address_json": null,
+        "business_contact_method": "UNKNOWN",
+        "business_email": null,
+        "business_phone_number": null,
+        "business_category_name": null,
+        "overall_category_name": null,
+        "category_enum": null,
+        "category_name": null,
+        "is_private": true,
+        "is_verified": false,
+        "is_verified_by_mv4b": false,
+        "is_regulated_c18": false,
+        "edge_mutual_followed_by": {
+            "count": 0,
+            "edges": []
+        },
+        "pinned_channels_list_count": 0,
+        "profile_pic_url": "https://instagram.famd1-2.fna.fbcdn.net/v/t51.2885-19/331984787_910362973641947_6103008993460155926_n.jpg?stp=dst-jpg_e0_s150x150&_nc_ht=instagram.famd1-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=FluCs6rS_-AQ7kNvgGVr8Ev&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYCEzQ6z5szszo6iV8NCXY_pFFWjO_hUGWD0-br4D40szQ&oe=66BF8C44&_nc_sid=8b3546",
+        "profile_pic_url_hd": "https://instagram.famd1-2.fna.fbcdn.net/v/t51.2885-19/331984787_910362973641947_6103008993460155926_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.famd1-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=FluCs6rS_-AQ7kNvgGVr8Ev&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYD1tTyDKjPvRzIqjjXeXyJ-i7G3TIWfZ3CSCpFBC61AQg&oe=66BF8C44&_nc_sid=8b3546",
+        "requested_by_viewer": false,
+        "should_show_category": false,
+        "should_show_public_contacts": false,
+        "show_account_transparency_details": true,
+        "show_text_post_app_badge": null,
+        "remove_message_entrypoint": false,
+        "transparency_label": null,
+        "transparency_product": null,
+        "username": "sanketpy",
+        "connected_fb_page": null,
+        "pronouns": [],
+        "edge_related_profiles": {
+            "edges": []
+        }
+    },
+    "instaloader": {
+        "version": "4.10.3",
+        "node_type": "Profile"
+    }
+}
