@@ -1,0 +1,6 @@
+ID=101
+Name=Sanket
+City=Rajkot
+ID=102
+Name=Mitesh
+City=Jamnagar
